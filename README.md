@@ -2,7 +2,7 @@
 
 
 ![Twitter Follow](https://twitter.com/DaleHarshil)
-[![Linkedin: Harshil Dale](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amado-abaca-59845a1b4/)](https://www.linkedin.com/in/harshil-dale-2853621a1)
+[![Linkedin: Harshil Dale](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/Harshil-Dale-59845a1b4/)](https://www.linkedin.com/in/harshil-dale-2853621a1)
 ![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca)
 
 ### aboutMe.js
